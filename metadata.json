@@ -1,0 +1,5 @@
+{
+  "name": "Chromatic Coverage Analyzer",
+  "description": "An advanced tool to analyze images and determine the percentage coverage of dominant colors using K-Means clustering algorithms. Supports drag-and-drop and clipboard pasting.",
+  "requestFramePermissions": []
+}
